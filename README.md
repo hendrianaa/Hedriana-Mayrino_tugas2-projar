@@ -1,7 +1,7 @@
 # File Sharing App
 
-## Nama: [Nama Anda]
-## NIM: [Nomor Induk Mahasiswa Anda]
+## Nama: Hendriana Mayrino Mahdiyyah
+## NIM: 1203220040
 
 Selamat datang di aplikasi berbagi file sederhana menggunakan protokol TCP/IP. Aplikasi ini memungkinkan Anda untuk mengirim dan menerima file antara klien dan server. Berikut adalah penjelasan singkat tentang cara menggunakan aplikasi ini:
 
