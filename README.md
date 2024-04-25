@@ -1,5 +1,3 @@
-# File Sharing App
-
 ## Nama: Hendriana Mayrino Mahdiyyah
 ## NIM: 1203220040
 
